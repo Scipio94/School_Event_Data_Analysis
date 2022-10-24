@@ -33,38 +33,38 @@ Provide data analysis of dataset to strategize outreach to drive student attenda
 
 ## Analysis 
 
-1.What is the student population at each campus?
+### 1.What is the student population at each campus?
 
 ![BTS_Campus_Population](https://user-images.githubusercontent.com/112409778/197610653-18d80f9a-48c1-441e-b397-fce842ca9fb8.png)
 
 In total there are 1,033 students in the school network. The HS campus has 282 students, the PS campus has 256 students, the IS campus has 248 students, and the MS campus has 247 students. 
 
-2.What is the demographic information of the students enrolled in the school network?
+### 2.What is the demographic information of the students enrolled in the school network?
 
 ![Demographic_School_Network](https://user-images.githubusercontent.com/112409778/197611183-c47a8376-e494-4e20-81dc-2d77208d026b.png)
 
 In total there are 1,033 students enrolled in the school network. 484 (47%) identify as ‘Not Hispanic or Latino’, 474 (46%) of students identify as ‘Hispanic or Latino’, and  75 (7%) of students declined to identify their ethnicity.
 
-3. What is the demographic information of each campus?
+### 3. What is the demographic information of each campus?
 
 ![Demographic Campus (Inlcude in BTS Project)](https://user-images.githubusercontent.com/112409778/197611551-00789fdc-bc38-48e9-99a7-4b65be487f29.png)
 
 In total, 484 (47%) students in the school network identified as ‘Not Hispanic or Latino,474 (46%) of students identified as ‘Hispanic or Latino’, 75 (7%) of students declined to identify their ethnicity. Majority of the students at the PS campus, 118 (46%), identified as ‘Hispanic or Latino’. Majority of the students at the IS campus, 122 (49%), identified as ‘Not Hispanic or Latino’. Majority of the students at the MS campus, 141(57%), identified as ‘Not Hispanic or Latino’. Majority of the students at the HS campus, 139 (49%) identified as ‘Not Hispanic or Latino’. 
 
-4. What percentage of students were present at the events ?
+### 4. What percentage of students were present at the events ?
 
 ![Event Attendance Campus ](https://user-images.githubusercontent.com/112409778/197611235-dabc249e-27b2-4ee9-9eae-6f3e0db8ca78.png)
 
 In total 394 (38%) of students in the school network attended the school event. The PS campus had the highest turnout with 124 (31%) students attending the event, the IS campus had 107 (27%) students attend the event, the MS campus had 93 (24%) students attend the event, and the HS campus had 70 (18%) students attend the event.
 
 
-5. What was the demographic information of the students that attended the event?
+### 5. What was the demographic information of the students that attended the event?
 
 ![Pie_Demographic_School_Network_Attended](https://user-images.githubusercontent.com/112409778/197611354-3d312231-8f57-48de-893e-2dbabfa8edca.png)
 
 In total 394 students attended the school event. 200 (50.8%)  students that attended the event identified as ' Not Hispanic or Latino’, 164 (41.6%) of the students that attended the event  identified as ‘Hispanic or Latino’, and 30 (7.6%) students declined to identify their ethnicity.
 
-6. What was the demographic information of the students that attended the event at each campus ?
+### 6. What was the demographic information of the students that attended the event at each campus ?
 
 ![Demographic_Attended_Event_Campus](https://user-images.githubusercontent.com/112409778/197611282-aba57172-7318-4f86-9e3a-2c42eebd3d49.png)
 
@@ -73,7 +73,7 @@ Majority of the students, 56 (45%) ,that attended the event from the PS campus i
 students that attended the event from the IS campus identified as ‘ Not Hispanic or Latino’. Majority of the students, 62 (67%), that attended the event from the MS campus identified as ‘Not Hispanic or Latino’. Majority of the students, 40 (57%), that attended the event identified at the HS campus as ‘ Not Hispanic or Latino’
 
 
-7. What were the language preferences of the students that attended the events at each campus?
+### 7. What were the language preferences of the students that attended the events at each campus?
 
 ![Langauge Dash](https://user-images.githubusercontent.com/112409778/197611421-483650f9-c4df-495d-8857-a3302a322038.png)
 
@@ -98,6 +98,11 @@ Based on the analysis the following conclusions  have been made:
 - The HS campus had the least students attend the event, 70 (18%), in the school network.
 
 
+
+# Suggestions
+
+1. There should be an increase in outreach to families that speak both Spanish and English at all campuses in the school network to increase family engagement and student attendance for the next event.
+2. There needs to be focus on outreach to families that prefer to receive school communications in Spanish at both the MS and HS campuses. Both campuses have a significant percentage of their student population identify as ‘Hispanic or Latino. However, this percentage is not reflected in the  demographic information of the students in attendance at the event.
 
 
 
